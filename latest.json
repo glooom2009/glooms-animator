@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "notes": [
+    "none",
+    "none"
+  ],
+  "windows": {
+    "free": "https://github.com/glooom2009/glooms-animator/releases/download/v1.0/GloomsAnimator-Setup-1.0.exe",
+    "pro": ""
+  },
+  "android": {
+    "free": "https://github.com/glooom2009//glooms-animator/releases/download/v1.0/GloomsAnimator-1.0.apk",
+    "pro": ""
+  },
+  "page": "https://github.com/glooom2009/glooms-animator/releases/tag/v1.0"
+}
