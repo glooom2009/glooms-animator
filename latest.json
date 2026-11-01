@@ -1,16 +1,16 @@
 {
-  "version": "1.0",
+  "version": "1.1.1",
   "notes": [
-    "none",
-    "none"
+    "Library panel (Window \u2192 Library, Ctrl+L): every symbol with a picture of it",
+    "Swappable objects: give an object versions (other heads, faces, hands) from pictures, pasted pictures or copied drawings, then switch versions with one click on any frame"
   ],
   "windows": {
-    "free": "https://github.com/glooom2009/glooms-animator/releases/download/v1.0/GloomsAnimator-Setup-1.0.exe",
+    "free": "https://github.com/glooom2009/glooms-animator/releases/download/v1.1.1/GloomsAnimator-Setup-1.1.1.exe",
     "pro": ""
   },
   "android": {
-    "free": "https://github.com/glooom2009//glooms-animator/releases/download/v1.0/GloomsAnimator-1.0.apk",
+    "free": "https://github.com/glooom2009/glooms-animator/releases/download/v1.1.1/GloomsAnimator-1.1.1.apk",
     "pro": ""
   },
-  "page": "https://github.com/glooom2009/glooms-animator/releases/tag/v1.0"
+  "page": "https://github.com/glooom2009/glooms-animator/releases/latest"
 }
