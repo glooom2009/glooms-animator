@@ -26,7 +26,7 @@ Ready to try Gloom's Animator?
 
 *Installation steps may vary depending on the version and platform.*
 
-📱 **iPhone / iPad:** follow the [iOS install tutorial](INSTALL-iOS.md).
+**iPhone / iPad:** follow the [iOS install tutorial](INSTALL-iOS.md).
 
 ## Development Status
 
