@@ -26,8 +26,6 @@ Ready to try Gloom's Animator?
 
 *Installation steps may vary depending on the version and platform.*
 
-**iPhone / iPad:** follow the [iOS install tutorial](INSTALL-iOS.md).
-
 ## Development Status
 
 Gloom's Animator is an evolving project. Features and improvements may change as development continues.
